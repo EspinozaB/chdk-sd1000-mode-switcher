@@ -15,7 +15,7 @@ This lets you switch between **Auto Photo**, **Manual Photo**, **Video**, and **
 
 ## Usage
 
-1. Install **CHDK** on your SD (NON SDHC) card (tested on 1.4+).
+1. Install **CHDK** on your SD (NON SDHC) card (tested on 1.4+). *USE Chimp*
 2. Copy `mode_toggle.lua` into:/CHDK/SCRIPTS/
 3. On your camera:
 - Enter **Script menu** by using the printer button > Menu > Script
