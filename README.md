@@ -31,19 +31,19 @@ This lets you switch between **Auto Photo**, **Manual Photo**, **Video**, and **
 ##  Example Scene Mode IDs
 | Mode | ID | Scene |
 |------|----|--------|
-| 6 | Aquarium |
-| 7 | Beach |
-| 10 | Grayscale |
-| 14 | Digital Macro |
-| 18 | Fireworks |
-| 20 | Foliage |
-| 23 | Indoor |
-| 25 | Kids/Pets |
-| 34 | Night |
-| 36 | Portrait |
-| 41 | Snow |
-| 44 | Stitch |
-| 49 | Underwater |
+| 4 | 6 | Aquarium |
+| 4 | 7 | Beach |
+| 4 | 10 | Grayscale |
+| 4 | 14 | Digital Macro |
+| 4 | 18 | Fireworks |
+| 4 | 20 | Foliage |
+| 4 | 23 | Indoor |
+| 4 | 25 | Kids/Pets |
+| 4 | 34 | Night |
+| 4 | 36 | Portrait |
+| 4 | 41 | Snow |
+| 4 | 44 | Stitch |
+| 4 | 49 | Underwater |
 
 ---
 
