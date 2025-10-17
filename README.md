@@ -15,12 +15,12 @@ This lets you switch between **Auto Photo**, **Manual Photo**, **Video**, and **
 
 ## Usage
 
-1. Install **CHDK** on your SD card (tested on 1.4+).
-2. Copy `SD1000_Mode_Switcher.lua` into:/CHDK/SCRIPTS/
+1. Install **CHDK** on your SD (NON SDHC) card (tested on 1.4+).
+2. Copy `mode_toggle.lua` into:/CHDK/SCRIPTS/
 3. On your camera:
-- Enter **Script menu**
-- Load the script
-- Set parameters:
+- Enter **Script menu** by using the printer button > Menu > Script
+- Select Load the script from file and select the mode_toggle.lua script
+- Set parameters in the "SD1000 Mode Switcher":
   - `m`: Mode (0=Auto Photo, 1=Manual Photo, 2=Video, 3=Playback/Library, 4=Custom)
   - `c`: Custom Mode ID (if `m=4`)
   - `d`: Delay between mode changes (default 100 ms)
